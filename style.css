@@ -1,0 +1,51 @@
+html {
+  background: url("http://users.wpi.edu/~bmoriarty/ps/images/rgbrect.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+img{
+   display: block;
+}
+
+#red{
+  /*background-color: black;*/
+  color: red;
+    display:inline-block;
+}
+
+#blue{
+  /*background-color: black;*/
+  color: blue;
+    display:inline-block;
+}
+
+#green{
+  /*background-color: black;*/
+  color: green;
+    display:inline-block;
+}
+
+}
+p{
+  display:inline-block;
+  color: steelblue;
+}
+
+h1{
+  color: steelblue;
+}
+
+h4{
+  color: steelblue;
+}
+
+a{
+  color: steelblue;
+}
+
+.navi{
+  text-align: center;
+}
