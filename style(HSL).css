@@ -14,6 +14,7 @@ img{
 p{
     color: steelblue;
   display:inline-block;
+
 }
 
 h1{
@@ -38,6 +39,7 @@ nav{
 }
 
 #red{
+
   color: red;
     display:inline-block;
 }
@@ -50,13 +52,4 @@ nav{
 #green{
   color: green;
     display:inline-block;
-}
-
-#blacklink{
-  color: black;
-}
-
-#center{
-  text-align: center;
-  color: black;
 }

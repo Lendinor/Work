@@ -12,7 +12,7 @@ img{
 
 }
 p{
-    color: steelblue;
+  color: #343434  ;
   display:inline-block;
 }
 
@@ -50,13 +50,4 @@ nav{
 #green{
   color: green;
     display:inline-block;
-}
-
-#blacklink{
-  color: black;
-}
-
-#center{
-  text-align: center;
-  color: black;
 }
